@@ -7,7 +7,7 @@
 
 - [x] 0.Git Basics
 - [x] 1.Linux CLI and Networking
-- [ ] 2.Git Collaboration
+- [x] 2.Git Collaboration
 
 </details>
 
@@ -53,4 +53,26 @@
 
 Before start learning this module I knew and even used some Linux commands but definitely [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) helped me improve my skills and I hope this tutorial will help me in the future.
 As for HTTP part I guess it's not a suitable article for beginners. Too literal translate, too much parentheses, in a word too complicated IMHO. I think there are some another good material in the net.
+
+
+## 2.Git Collaboration
+
+<details>
+<summary>Learn Git Branching</summary> 
+
+![screen-01](task_git_collaboration/Learn-Git-Branching.jpg)
+![screen-02](task_git_collaboration/Learn-Git-Branching2.jpg)
+
+</details>
+
+<details>
+<summary>Introduction to Git and GitHub, week 3, week 4</summary> 
+
+![screen-01](task_git_collaboration/Coursera-Git-Week3.jpg)
+![screen-02](task_git_collaboration/Coursera-Git-Week4.jpg)
+
+</details>
+
+Honestly, I used git and Github before, but as I now understand it was easiest flow with simpliest commands such git add, git commit and git push. Now I clearly see what I need to improve. I had trubles with understanding of rebase, changes commits and even difference between git fetch and git pull. So, I have a lot to do in this way. Most important thing I'v learned from this task-I need more practice!
+
 
