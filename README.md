@@ -15,7 +15,7 @@
 <details>
 <summary> Front-End Basics</summary> 
 
-- [ ] 3.Intro to HTML & CSS
+- [x] 3.Intro to HTML & CSS
 - [ ] 4.Responsive Web Design
 - [ ] 5.HTML & CSS Practice
 - [ ] 6.JavaScript Basics
@@ -66,7 +66,7 @@ As for HTTP part I guess it's not a suitable article for beginners. Too literal 
 </details>
 
 <details>
-<summary>Introduction to Git and GitHub, week 3, week 4</summary> 
+<summary>Introduction to Git and GitHub: week 3, week 4</summary> 
 
 ![screen-01](task_git_collaboration/Coursera-Git-Week3.jpg)
 ![screen-02](task_git_collaboration/Coursera-Git-Week4.jpg)
@@ -76,3 +76,22 @@ As for HTTP part I guess it's not a suitable article for beginners. Too literal 
 Honestly, I used git and Github before, but as I now understand it was easiest flow with simpliest commands such git add, git commit and git push. Now I clearly see what I need to improve. I had trubles with understanding of rebase, changes commits and even difference between git fetch and git pull. So, I have a lot to do in this way. Most important thing I'v learned from this task-I need more practice!
 
 
+## 3.Intro to HTML and CSS
+
+<details>
+<summary>Introduction to Responsive Design: week 1, week 2</summary> 
+
+![screen-01](task_html_css_intro/intro-to-responsive-design-week1.jpg)
+![screen-02](task_html_css_intro/intro-to-responsive-design-week2.jpg)
+
+</details>
+
+<details>
+<summary>Learn HTML&CSS</summary> 
+
+![screen-01](task_html_css_intro/codecademy-html-css.jpg)
+
+</details>
+
+Already have some expirience with HTML and CSS, despite this I learned something new. For example, that not all html tags have dafault property of positioning as static)). 
+After all, guess it was usefull to refresh my knowledge.
