@@ -16,7 +16,7 @@
 <summary> Front-End Basics</summary> 
 
 - [x] 3.Intro to HTML & CSS
-- [ ] 4.Responsive Web Design
+- [x] 4.Responsive Web Design
 - [ ] 5.HTML & CSS Practice
 - [ ] 6.JavaScript Basics
 - [ ] 7.Document Object Model 
@@ -95,3 +95,15 @@ Honestly, I used git and Github before, but as I now understand it was easiest f
 
 Already have some expirience with HTML and CSS, despite this I learned something new. For example, that not all html tags have dafault property of positioning as static)). 
 After all, guess it was usefull to refresh my knowledge.
+
+## 4.Responsive Web Design
+
+<details>
+<summary>Flexbox Froggy&Grid Garden</summary> 
+
+![screen-01](task_responsive_web_design/flexbox-froggy.jpg)
+![screen-02](task_responsive_web_design/grid-garden.jpg)
+
+</details>
+
+Had some fun playing Froggy and Grid Garden. All task were pretty easy except last level in Flexbox Froggy, I forgot about wrap-reverse property and level 26 in Grid Garden. Had to look solution in the net). As for Eugen Andrikanych's Youtube channel, I guess every FrontEnd begginer have to subscribe and use this information to improve skills and knowledge. Awesome guy!  
